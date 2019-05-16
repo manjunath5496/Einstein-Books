@@ -21,7 +21,7 @@
                 <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 7. Isis Unveiled: A Master-Key to the Mysteries of Ancient and Modern Science and Theology By Helena Petrovna Blavatsky</br>
-                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(7).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(7).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br></br>
                 
  
  <strong> Books by Albert Einstein  </strong> </br> <hr> </br>
