@@ -1,4 +1,4 @@
-<strong> 7 of Albert Einstein's favorite books  </strong> </br> <hr> </br>
+<strong> 7 of Albert Einstein's Favorite Books  </strong> </br> <hr> </br>
 
 
 
