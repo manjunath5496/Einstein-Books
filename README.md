@@ -78,7 +78,7 @@
 17. Fundamental ideas and problems of the theory of relativity</br>
                 <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(25).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
-18. The Meaning of Relativity</br>
+18. The Travel Diaries of Albert Einstein: The Far East, Palestine, and Spain, 1922 - 1923</br>
                 <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(19).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                   
                 
                 
