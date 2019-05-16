@@ -70,7 +70,18 @@
                 <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(23).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
 15. The Meaning of Relativity</br>
-                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(24).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(24).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+                
+16. A Stubbornly Persistent Illusion</br>
+                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(22).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+17. Fundamental ideas and problems of the theory of relativity</br>
+                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(25).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+                
+18. The Meaning of Relativity</br>
+                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(19).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                   
+                
+                
                 
                 
                 
