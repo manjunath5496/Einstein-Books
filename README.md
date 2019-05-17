@@ -85,9 +85,7 @@
                 <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(45).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
 20. The Theory of Relativity and Other Essays</br>
-                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(50).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
-                
-                </br>                 
+                <a href="https://github.com/manjunath5496/Einstein-Books/blob/master/alb(50).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br></br>                 
                 
                 
 
